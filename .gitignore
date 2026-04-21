@@ -1,0 +1,13 @@
+*.log
+*.json
+__pycache__/
+.metadata/
+*.metadata.json
+*.resolved
+*.resolved.*
+plan.md
+verify_*.py
+test_*/
+Duplicates_Found/
+Archive_Storage/
+.git/
