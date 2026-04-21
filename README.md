@@ -35,7 +35,11 @@ Manages disk space by targeting unused files based on age.
 - **Archiving**: Option to compress old files into ZIP archives before moving.
 - **Safety**: Multi-step confirmation for deletions and whitelist support for critical files.
 
----
+### 6. Duplicate Finder Web Application (`duplicate_finder.py`)
+A full-featured web interface for a more visual experience.
+- **Visual Groups**: View duplicates in a clean dashboard.
+- **Scanning Progress**: Real-time updates as the tool scans your folders.
+- **Easy Cleanup**: Select and delete directly from the browser.
 
 ## 🛠️ Installation
 
